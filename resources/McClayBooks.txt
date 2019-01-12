@@ -1,0 +1,81 @@
+0
+Harry Potter and the Philosopher's Stone
+JK Rowling
+FANTASY
+12
+y
+4
+0
+http://static.tvtropes.org/pmwiki/pub/images/HP1.jpg
+1
+Lord of the Rings: The Fellowship of the Ring
+JRR Tolkien
+FANTASY
+25
+y
+4
+0
+https://hotteahotbooks.files.wordpress.com/2011/12/0618129014.jpeg
+2
+The Hunger Games
+F Scott Fitzgerald
+DRAMA
+6
+n
+2
+2
+http://img2.wikia.nocookie.net/__cb20120410142834/thehungergames/images/a/a4/THG-Cover_UK.jpg
+3
+The Cat in the Hat
+Dr. Seuss
+CHILDRENS
+46
+y
+5
+1
+https://upload.wikimedia.org/wikipedia/en/b/b5/Seuss-cat-hat.gif
+4
+The Great Gatsby
+Suzanne Collins
+DRAMA
+3
+y
+7
+0
+http://cdn.pastemagazine.com/www/system/images/photo_albums/greatgatsbycovers/large/photo_16696_0.jpeg?1384968217
+5
+The Hobbit
+JRR Tolkien
+FANTASY
+1
+y
+5
+1
+https://upload.wikimedia.org/wikipedia/en/3/30/Hobbit_cover.JPG
+6
+To Kill a Mockingbird
+Harper Lee
+DRAMA
+4
+y
+2
+0
+https://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg
+7
+The Pragmatic Programmer
+Andrew Hunt/David Thomas
+SCIENCE
+4
+y
+3
+0
+http://ecx.images-amazon.com/images/I/41BKx1AxQWL._SX396_BO1,204,203,200_.jpg
+8
+Horrible Histories
+Terry Deary
+HISTORICAL
+3
+y
+4
+1
+http://images.scholastic.co.uk/assets/a/18/bd/108961-px310-226838.jpg

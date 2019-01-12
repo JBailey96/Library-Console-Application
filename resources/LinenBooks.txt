@@ -1,0 +1,54 @@
+0
+A Tale Of Two Cities
+Charles Dickens
+HISTORICAL
+13
+y
+4
+1
+https://upload.wikimedia.org/wikipedia/commons/f/f0/CC_No_06_A_Tale_of_Two_Cities.jpg
+1
+The Da Vinci Code
+Dan Brown
+ADVENTURE
+27
+y
+4
+2
+https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg
+2
+The Hunger Games
+F Scott Fitzgerald
+ADVENTURE
+3
+y
+6
+0
+http://img2.wikia.nocookie.net/__cb20120410142834/thehungergames/images/a/a4/THG-Cover_UK.jpg
+3
+The Godfather
+Mario Puzo
+CRIME
+2
+y
+2
+1
+http://photo.goodreads.com/books/1195309998l/22034.jpg
+4
+The Fault in Our Stars
+John Green
+DRAMA
+0
+y
+4
+0
+http://cdn.collider.com/wp-content/uploads/the-fault-in-our-stars-book-cover1.jpg
+5
+Game of Thrones
+George R. R. Martin
+FANTASY
+0
+y
+5
+0
+http://fantasy-faction.com/wp-content/uploads/2014/02/A-Game-of-Thrones-Mountain.jpg
